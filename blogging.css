@@ -1,0 +1,55 @@
+#main {
+
+  
+
+margin: 30px; 
+  backdrop-filter: blur(20px);
+
+      
+    
+
+}
+
+
+
+
+
+
+#view {
+
+ background-image:url(https://images.pexels.com/photos/1103969/pexels-photo-1103969.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+background-repeat: repeat;
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+backdrop-filter: blur(20px);
+
+
+
+
+
+
+}
+
+body {
+
+
+background-image:url(https://images.pexels.com/photos/1103969/pexels-photo-1103969.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+background-repeat: no-repeat;
+background-attachment: fixed;
+ background-position: center; 
+background-size: cover; 
+backdrop-filter: blur(4px);
+
+
+
+
+}
+
+ 
+
+    
+  
+  
+
+
